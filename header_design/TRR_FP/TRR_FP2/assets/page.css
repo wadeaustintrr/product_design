@@ -1,0 +1,764 @@
+/* This code is only meant for previewing your Reflow design. */
+.primaryContainer {
+    height: auto;
+    margin-left: 0%;
+    margin-right: 0px;
+    min-height: 100%;
+    width: 100%;
+    float: left;
+    position: relative;
+}
+
+#text2 {
+    float: left;
+    font-size: 12px;
+    width: 305.203125px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 16px;
+    clear: none;
+    min-height: 0px;
+    font-family: helvetica;
+    margin-right: 0%;
+    letter-spacing: 0.5px;
+}
+
+#textspan3 {
+    float: none;
+    font-size: 1em;
+    line-height: 1em;
+    color: rgb(170, 34, 34);
+}
+
+#text3 {
+    float: left;
+    font-size: 11px;
+    width: 115px;
+    height: 40px;
+    text-align: center;
+    font-weight: 700;
+    line-height: 1em;
+    margin-left: 63.544185%;
+    margin-top: 41px;
+    clear: both;
+    min-height: 0px;
+    color: rgb(51, 51, 51);
+    margin-right: 0%;
+    display: block;
+    padding-top: 14px;
+    font-family: helvetica;
+}
+
+#line {
+    float: none;
+    height: 2px;
+    margin-left: auto;
+    margin-top: 68px;
+    clear: none;
+    width: 100%;
+    margin-right: auto;
+    background-color: rgb(51, 51, 51);
+    display: block;
+}
+
+#nav {
+    float: left;
+    height: 2.994012%;
+    clear: none;
+    width: 74.599553%;
+    min-width: 0px;
+    min-height: 0px;
+    padding-top: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    display: block;
+    margin-top: -53px;
+    margin-left: 0%;
+}
+
+#box1 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 12.755831%;
+    min-height: 50px;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.00173256%;
+    display: block;
+}
+
+#text7 {
+    float: none;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 0px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box2 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 6.853879%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47653727%;
+}
+
+#text8 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 0px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box3 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 19.038553%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47812045%;
+}
+
+#text9 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 0px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box4 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 19.038553%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47653727%;
+}
+
+#text10 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 0px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box5 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 6.282723%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47653727%;
+}
+
+#text11 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 8px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box6 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 18.848168%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47495409%;
+}
+
+#text12 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 8px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box7 {
+    float: left;
+    height: 100%;
+    clear: none;
+    width: 14.278915%;
+    min-height: 50px;
+    display: block;
+    padding-right: 0%;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin-top: 0px;
+    margin-left: 0.47495409%;
+}
+
+#text13 {
+    float: left;
+    font-size: 16px;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 100%;
+    clear: none;
+    min-height: 0px;
+    padding: 16px 0px 8px;
+    display: block;
+    text-transform: uppercase;
+    color: rgb(170, 34, 34);
+    letter-spacing: 0.5px;
+    min-width: 0px;
+    position: static;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    font-family: helvetica;
+}
+
+#box8 {
+    float: right;
+    height: auto;
+    margin-left: 0px;
+    margin-top: -209px;
+    clear: none;
+    width: 18.297276%;
+    min-height: 50px;
+    display: block;
+    margin-right: 55.048658%;
+}
+
+#top_tools {
+    float: none;
+    height: 40px;
+    margin: auto auto 0px;
+    clear: none;
+    width: 100%;
+    min-height: 0px;
+    display: block;
+    min-width: 0px;
+    opacity: 1;
+    background-color: rgb(243, 243, 243);
+}
+
+#marketing_bar {
+    float: none;
+    height: 40px;
+    margin-left: auto;
+    margin-top: auto;
+    clear: none;
+    width: 100%;
+    position: relative;
+    max-width: none;
+    display: block;
+    margin-right: auto;
+    background-color: rgb(51, 51, 51);
+}
+
+#box {
+    float: none;
+    height: 40px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    min-height: 0px;
+    min-width: 0px;
+    margin-right: auto;
+}
+
+#account_cart {
+    float: right;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 350px;
+    min-height: 0px;
+    margin-right: auto;
+}
+
+#obsessed:hover {
+    background-image:url("img/obsess_icon_over.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: 19px 18px;
+    background-size: 19px 18px;
+    background-position: 72px 11px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#obsessed {
+    float: right;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: -21px;
+    clear: both;
+    width: 98.73px;
+    margin-right: 9.400689%;
+    display: block;
+    background-image:url("img/obsess_icon.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: 19px 18px;
+    background-size: 19px 18px;
+    background-position: 72px 11px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#text5 {
+    float: left;
+    font-size: 11px;
+    width: 89.7187501153125px;
+    height: 40px;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: 224.296875px;
+    margin-top: 9px;
+    clear: none;
+    min-height: 40px;
+    color: rgb(0, 0, 0);
+    display: block;
+    margin-right: 0%;
+    padding-top: 14px;
+}
+
+#account:hover {
+    background-image:url("img/account_icon.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: 20px 19px;
+    background-size: 20px 19px;
+    background-position: 65px 10px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#account {
+    float: right;
+    height: 40px;
+    margin: -183px 26.127297% 0px 0px;
+    clear: right;
+    width: 90px;
+    display: block;
+    background-image:url("img/account_icon%201.jpg");
+    background-attachment: scroll;
+    -webkit-background-size: 20px 19px;
+    background-size: 20px 19px;
+    background-position: 65px 10px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#text6 {
+    float: left;
+    font-size: 11px;
+    width: 82.9999998px;
+    height: 40px;
+    text-align: left;
+    font-weight: 600;
+    line-height: 1em;
+    margin-left: 757.546875px;
+    margin-top: 185px;
+    clear: both;
+    min-height: 0px;
+    color: rgb(0, 0, 0);
+    display: block;
+    margin-right: 0%;
+    padding-top: 14px;
+    font-family: helvetica;
+}
+
+#cart {
+    float: right;
+    height: 40px;
+    margin-left: 0%;
+    margin-top: 13px;
+    clear: none;
+    width: 43px;
+    margin-right: 22.660783%;
+    background-image:url("img/cart%201.png");
+    background-attachment: scroll;
+    -webkit-background-size: 24px 23px;
+    background-size: 24px 23px;
+    display: block;
+    background-position: 10px 7px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#text4 {
+    float: left;
+    font-size: 10px;
+    width: 4.056604%;
+    height: 40px;
+    text-align: center;
+    font-weight: 500;
+    line-height: 1em;
+    margin-left: 56.674625%;
+    margin-top: 3px;
+    clear: both;
+    min-height: 0px;
+    min-width: 0px;
+    padding-top: 16px;
+    margin-right: 0%;
+}
+
+#text5:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+#text3:hover {
+    text-decoration: underline;
+    color: rgb(0, 0, 0);
+}
+
+#formgroup {
+    float: left;
+    height: 30px;
+    display: block;
+    text-align: left;
+    margin-left: 77.399662%;
+    margin-top: -119px;
+    clear: none;
+    width: 18.285075%;
+    min-height: auto;
+    padding: 0px;
+    margin-right: 0%;
+}
+
+#textinput {
+    float: none;
+    height: 30px;
+    padding: 4px 4px 4px 6px;
+    font-size: 14px;
+    display: block;
+    width: 100%;
+    margin-top: 0px;
+    margin-left: 0%;
+    clear: none;
+    font-family: helvetica;
+    color: rgb(51, 51, 51);
+    letter-spacing: 1px;
+    border: 1px solid rgb(204, 204, 204);
+    background-image:url("img/magnifying.png");
+    background-attachment: scroll;
+    -webkit-background-size: 25px;
+    background-size: 25px;
+    background-position: 100% 2px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#text14 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: 0px;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding: 0px;
+    display: block;
+    min-height: 0px;
+}
+
+#formgroup:focus {
+    border-top-color: rgb(0, 0, 0);
+    border-top-width: 1px;
+    border-top-style: solid;
+}
+
+#textinput:focus {
+    border-color: rgb(102, 102, 102);
+    border-top-width: 1px;
+    border-top-style: outset;
+}
+
+#textspan3:hover {
+    text-decoration: underline;
+}
+
+#text7:hover {
+    font-weight: 500;
+}
+
+#text6:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+}
+
+#text4:hover {
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#box2:hover {
+    background-image:url("img/menu_carrot.png");
+    background-attachment: inherit;
+    -webkit-background-size: 24px 11px;
+    background-size: 24px 11px;
+    background-position: 50% 40px;
+    background-repeat: no-repeat no-repeat;
+}
+
+#text8:hover {
+    font-weight: 600;
+}
+
+#text13:hover {
+    font-weight: 600;
+}
+
+#text1 {
+    float: right;
+    font-size: 12px;
+    width: 50%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 12px auto 0px 0px;
+    clear: none;
+    min-height: 0px;
+    color: rgb(255, 255, 255);
+    font-family: helvetica;
+}
+
+#logo {
+    float: none;
+    height: 47px;
+    margin: 30px auto 0px;
+    clear: none;
+    width: 220px;
+    min-height: 0px;
+    padding: 0px;
+}
+
+#image {
+    float: none;
+    width: 220px;
+    max-width: 100%;
+    height: 35px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#image1 {
+    float: none;
+    width: 220px;
+    max-width: 100%;
+    height: 12px;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#text {
+    float: left;
+    font-size: 12px;
+    width: 50%;
+    height: auto;
+    text-align: right;
+    font-weight: normal;
+    line-height: 1em;
+    margin: 12px 0px 0px auto;
+    clear: none;
+    min-height: 0px;
+    color: rgb(243, 243, 243);
+}
+
+#image2 {
+    float: left;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 323px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    display: none;
+}
+
+#image3 {
+    float: left;
+    width: 36px;
+    max-width: none;
+    height: 36px;
+    margin-left: 0%;
+    margin-top: 323px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+    display: none;
+}
+
+#hamburger {
+    float: left;
+    height: 25px;
+    margin: 323px 0px 0px;
+    clear: none;
+    width: 30px;
+    display: none;
+}
+
+#box9 {
+    float: left;
+    height: 3px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(51, 51, 51);
+    display: block;
+}
+
+#box10 {
+    float: left;
+    height: 3px;
+    margin-left: 0%;
+    margin-top: 6.5px;
+    clear: both;
+    width: 100.000002%;
+    display: block;
+    background-color: rgb(51, 51, 51);
+    margin-right: 0%;
+}
+
+#box11 {
+    float: left;
+    height: 3px;
+    margin: 8px 0px 0px;
+    clear: both;
+    width: 100%;
+    display: block;
+    background-color: rgb(51, 51, 51);
+}
+
+#textspan2 {
+    display: inline;
+}
+
